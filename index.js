@@ -5,7 +5,7 @@ export default class FloatingButton extends Component {
   render() {
     return (
       <View>
-        <Text>Nureke stories</Text>
+        <Text>Nureke stories yesss</Text>
       </View>
     );
   }

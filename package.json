@@ -1,0 +1,22 @@
+{
+  "name": "react-native-nstories",
+  "version": "1.0.0",
+  "description": "story nureke",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BGdroid/nstories.git"
+  },
+  "keywords": [
+    "react-native-nstories"
+  ],
+  "author": "nureke",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BGdroid/nstories/issues"
+  },
+  "homepage": "https://github.com/BGdroid/nstories#readme"
+}

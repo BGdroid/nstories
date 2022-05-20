@@ -2,7 +2,7 @@
   "name": "react-native-nstories",
   "version": "1.0.0",
   "description": "story nureke",
-  "main": "index.js",
+  "main": "Story.js",
   "scripts": {
     "test": "exit 1"
   },
